@@ -1,0 +1,6 @@
+streamlit
+llama-index-core
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+google-generativeai
+numpy<2.0.0
